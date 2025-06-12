@@ -6,4 +6,11 @@
 #+startup: overview
 
 This is a Pure Data (Pd) external for higher order ambisonics.  It is based on
-the [[https://github.com/CICM/HoaLibrary-Light][HoaLibrary-Light]]. 
+the [[https://github.com/CICM/HoaLibrary-Light][HoaLibrary-Light]].
+
+Please bear in mind to recursively pull this repository in order to fetch all
+dependencies:
+
+#+begin_src shell
+git clone --recurse-submodules https://github.com/rubenphilipp/rp_ambi
+#+end_src
