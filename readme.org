@@ -1,0 +1,9 @@
+# -*- eval: (flyspell-mode); eval: (ispell-change-dictionary "en") -*-
+#+title: rp_ambi
+#+author: Ruben Philipp
+#+date: 2025-06-12
+#+LANGUAGE: en
+#+startup: overview
+
+This is a Pure Data (Pd) external for higher order ambisonics.  It is based on
+the [[https://github.com/CICM/HoaLibrary-Light][HoaLibrary-Light]]. 
