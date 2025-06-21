@@ -6,7 +6,8 @@
 #+startup: overview
 
 This is a Pure Data (Pd) external for higher order ambisonics.  It is based on
-the [[https://github.com/CICM/HoaLibrary-Light][HoaLibrary-Light]].
+the [[https://leomccormack.github.io/Spatial_Audio_Framework/index.html][Spatial_Audio_Framework]].  
+
 
 Please bear in mind to recursively pull this repository in order to fetch all
 dependencies:
@@ -14,3 +15,8 @@ dependencies:
 #+begin_src shell
 git clone --recurse-submodules https://github.com/rubenphilipp/rp_ambi
 #+end_src
+
+
+* Build
+
+TODO...
